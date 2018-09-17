@@ -1,0 +1,6 @@
+[package]
+name = "orchestra"
+version = "0.1.0"
+authors = ["juliancoleman <jcoleman.engineering@gmail.com>"]
+
+[dependencies]
